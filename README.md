@@ -1,16 +1,6 @@
-# diet_calculator
+# NutriChange Exchange Calculator
+<br>
+<img src="https://firebasestorage.googleapis.com/v0/b/hunted-village.appspot.com/o/Frame%206.png?alt=media&token=b3e892df-e334-4bb1-a044-43a1d4f488d6">
+<br>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Streamline dietary calculations and empower client care with this mobile app designed specifically for nutritionists. Built using Flutter for seamless cross-platform functionality (iOS & Android), the app allows you to perform essential dietary calculations conveniently from your smartphone, enhancing accessibility and efficiency.
